@@ -1,4 +1,4 @@
-# FreeRTOS Threads & Mutexes on STM32F411-NUCLEO and Tera Term - II
+# FreeRTOS Threads & Mutexes on STM32F411-NUCLEO / Tera Term - II
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-10.4.3-green)
 ![STM32](https://img.shields.io/badge/STM32F411-84MHz-03234B?logo=stmicroelectronics)
