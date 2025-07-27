@@ -4,6 +4,8 @@
 ![STM32](https://img.shields.io/badge/STM32F411-84MHz-03234B?logo=stmicroelectronics)
 ![UART](https://img.shields.io/badge/UART-115200_8N1-blueviolet)
 
+![D36BCBE0-D2CC-4BE4-A836-C7B4ACF4E81D_1_105_c](https://github.com/user-attachments/assets/1fe6ecbb-4a6f-4426-a85d-bc3d0b704bda)
+
 
 ## Features
 - 🧵 **3 FreeRTOS Threads** with execution profiling
