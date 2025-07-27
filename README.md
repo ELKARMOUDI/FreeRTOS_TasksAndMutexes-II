@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/1fe6ecbb-4a6f-4426-a85d-bc3d0b704bda" width="650" alt="D36BCBE0-D2CC-4BE4-A836-C7B4ACF4E81D_1_105_c">
 
-
+STM32F411 FreeRTOS demo featuring mutex-protected UART communication with Tera Term, including 3 threads and GPIO control.
 ## Features
 - 🧵 **3 FreeRTOS Threads** with execution profiling
 - 🔒 **Mutex-Protected UART** - Thread-safe serial communication
